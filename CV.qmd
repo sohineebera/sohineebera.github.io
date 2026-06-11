@@ -2,4 +2,4 @@
 title: "CV"
 format: html
 ---
-
+[Download my CV here](Bera_CV_06112026.pdf)
