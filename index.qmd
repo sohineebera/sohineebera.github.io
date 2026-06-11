@@ -1,11 +1,87 @@
 ---
-title: "sohineebera.github.io"
+title: "Sohinee Bera"
+image: capetownheadshot.jpeg
+description: "Ph.D. candidate in the Department of Communication at Cornell University"
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  
+  links:
+    - text: Email
+      href: mailto:sb928@cornell.edu
+      icon: envelope
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=BoKVESQAAAAJ&hl=en
+      icon: google
+      target: _blank
+    - text: Linkedin
+      href: https://www.linkedin.com/in/sohineebera/
+      icon: linkedin
+      target: _blank
 ---
+::: {#hero-heading}
+## Overview
+Hello! I'm a 5th year Ph.D. candidate in the Department of Communication at Cornell University, where I study how structural and cultural conditions shape participation and voice in science, health, environmental, and risk decision-making. I draw on qualitative methods- interviews, participant observation, and textual analysis- along with surveys to explore this across different contexts. 
 
-This is a Quarto website.
+My dissertation follows female community health workers in rural India as they navigate national health policies, data-driven reporting systems, and the everyday needs of the communities they serve. This work sits at the intersection of critical communication approaches, science and technology studies, and national health policy, examining how structural vulnerabilities and data practices shape care on the ground. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My work has been featured in the [Cornell Chronicle](https://news.cornell.edu/stories/2025/01/communicating-cotton-cropps-research-arizona) and [ScienceIRL](https://www.youtube.com/watch?v=EJfKeySYWm4). I have published in the [*International Journal of Communication*](https://ijoc.org/index.php/ijoc/article/view/27663), [*Public Understanding of Science*](https://doi.org/10.1177/096366252614197), [*Ambio: A Journal of Environment and Society*](https://doi.org/10.1007/s13280-026-02383-1), and [*Frontiers in Communication*](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1474619/full). 
 
-```{r}
-1 + 1
-```
+I've also been awarded funding from the [Waterhouse Family Institute](https://www1.villanova.edu/university/liberal-arts-sciences/scholarship/centers/waterhouse/grants-outreach.html), Cornell's [Qualitative and Interpretive Research Institue](https://socialsciences.cornell.edu/funding-and-programs/qualitative-interpretive-research-institute), Cornell's [Graduate School](https://gradschool.cornell.edu/inclusion/funding-and-resources/graduate-school-founders-fellowships/), Cornell's [Department of Communication](https://cals.cornell.edu/communication), Cornell's [South Asia Program](https://einaudi.cornell.edu/programs/south-asia-program/funding), and the [National Science Foundation](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2019674&HistoricalAwards=false). 
+
+**I am currently on the academic job market for positions beginning Fall 2027 and am seeking out roles where I can contribute to research, teaching, and community engagement.**
+
+
+## Education 
+### <span style=" font-size: 0.9em; font-weight: normal;">Cornell University <span style="color: gray; font-size: 0.9em; font-weight: normal;">| Ithaca, NY</span>
+*M.S., PhD in Science, Health, Risk, & Environmental Communication* 
+<span style=" color: gray; font-size: 0.8em;">Aug 2022 - Present</span>
+
+<small style="color: gray;">Committee Members: Bruce V. Lewenstein, Katherine McComas, Jeff Niederdeppe, Mohan Dutta (Massey University)</small>
+
+### <span style=" font-size: 0.9em; font-weight: normal;">Purdue University <span style="color: gray; font-size: 0.9em; font-weight: normal;">| West Lafayette, IN</span>
+*B.S. in Agricultural Communication* 
+<span style=" color: gray; font-size: 0.8em;">Aug 2017 - Dec 2020</span>
+
+
+## Recent News 
+- **June 2026**: Presented two papers at the International Communication Association Annual Conference in Cape Town, South Africa  
+- **May 2026**: Published a book review of Phaedra C. Pezzullo, Beyond Straw Men: Plastic Pollution and Networked Cultures of Care in the [*International Journal of Communication*](https://ijoc.org/index.php/ijoc/article/view/27663)
+- **April 2026**: Published a co-authored  article on "Insights for Inclusive Upstream Engagement with Migrant Farmworkers in Agriculture: A Case Study From the US-Mexico Border" in [*Ambio: A Journal of Environment and Society*](https://doi.org/10.1007/s13280-026-02383-1)
+- **March 2026**: Returned from 3.5 months of dissertation fieldwork on female community health workers from rural West Bengal, India
+- **Feburary 2026**: Published a co-authored article on "Examining Media Coverage of Ethical Dimensions of Advanced Algorithmic Technology" in [*Public Understanding of Science*](https://doi.org/10.1177/096366252614197)
+
+<details>
+<summary>Show older updates</summary>
+- **December 2025**: Awarded a $2,000 research grant from the Cornell Center for Social Sciences: [Qualtiative and Interpretive Research Institute](https://socialsciences.cornell.edu/funding-and-programs/qualitative-interpretive-research-institute)
+- **November 2025**: Presented “When Fast Technologies Meet Slow Foods: Diverse Visions of Emerging Plant Biotechnologies” at the National Communication Association Annual Convention in Denver, Colorado 
+- **November 2025**: My research was featured in the [Mann Library Gallery](https://events.cornell.edu/event/exhibit-hello-human-the-emerging-science-of-plant-communication-and-smart-agriculture) exhibition "Hello Human!: The Emerging Science of Plant Communication and Smart Agriculture" 
+- **October 2025**: Awarded a Foreign Language and Area Studies (FLAS) Fellowship from Cornell's South Asia Program & the U.S. Department of Education (*declined*)
+- **September 2025**: Awarded a $5,600 [Waterhouse Family Institute Research Grant](https://www1.villanova.edu/university/liberal-arts-sciences/scholarship/centers/waterhouse/grants-outreach.html) (less than 10% acceptance rate) to fund my dissertation research
+- **July 2025**: Taught COMMM 2850: Communication, Environment, Science, and Health in a six-week summer course 
+- **June 2025**: Co-led a science communication workship with visiting REU students
+- **June 2025**: Awarded a SUNY Provost Diversity Fellowship
+- **May 2025**: Presented "Insights for Inclusive Upstream Engagement" at the Public Communication for Science and Technology annual meeting in Aberdeen, Scotland 
+- **May 2025**: Successfully passed my qualifying exams and became a PhD Candidate! 
+- **April 2025**: Co-awarded a [Community Access and Outreach Award for Impact on Communities beyond Cornell](https://gradschool.cornell.edu/inclusion/graduate-excellence-and-impact-awards/2025-graduate-diversity-inclusion-awardees/)
+- **March 2025**: Quoted in a *Cornell Chronicle* article entitled [From Lab to Learning: Grad Students Bring Hands-On Science to NYS Classrooms](https://news.cornell.edu/stories/2025/03/lab-learning-grad-students-bring-hands-science-nys-classrooms)
+- **Janurary 2025**: Quoted in a *Cornell Chronicle* article entitled [Communicating with Cotton: CROPPS Research in Arizona](https://news.cornell.edu/stories/2025/01/communicating-cotton-cropps-research-arizona)
+- **Janurary 2025**: My research was featured in a [ScienceIRL](https://www.youtube.com/watch?v=EJfKeySYWm4) video
+- **January 2025**: Published a co-authored article on "The Persistent Global Disparities in Environmental and Climate Communication Scholarship" in [*Frontiers in Communication*](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1474619/full)
+- **December 2024**: Presented "Migrant Farmworkers' Perceptions of Emerging PLant Biotechnologies" at the Society for Risk Analysis annual conference in Austin, Texas 
+- **October 2024**: Co-presented "Programmable Plant Systems for the Future" at the Terra Madre Salone Del Gusto (an international food festival and conference) in Turin, Italy
+- **July 2024**: Developed "Introduction to Social Science" crash course for visiting REU students 
+- **July 2024**: Co-lead science communication workshops with visiting REU students & CURIE Academy high school students 
+- **June-August 2024**: Mentored an [REU student](https://news.cornell.edu/stories/2024/06/cropps-welcomes-2024-reu-class) and supervised research on public perceptions of genetically modified organisms
+- **May 2024**: Invited Talk on "Growing Responsibly: Internal and External Visions of Emerging Plant Biotechnologies" for CROPPS NSF Site Visit 
+- **May 2024**: Visiting scholar at Joshua Tree National Park, California 
+- **April 2024**: Presented "You Can Lead a Horse to Water, But You Can't Make Him Drink’: Negotiations of Success and Sanitation in India’s Swachh Bharat Mission" at the Public Communication of Science & Technology Network Symposium in Zacatecas, Mexico 
+- **March 2024**: Invited Talk on "Embedded Social Science in Public Engagement Case Study" to CROPPS Scientific and Industrial Advisory Board 
+- **Feburary 2024**: Invited Talk on "Insights and Lessons Learned: Uncovering Farmworkers’ Perspectives on Emerging Plant Biotechnologies" for CROPPS center-wide meeting 
+- **December 2023**: Returned from 2 weeks of fieldwork with migrant farmworkers at U.S.-Mexico border 
+- **October 2023**: Invited Talk on "Public Engagement Critera and Evaluation" at CROPPS annual center-wide meeting in Urbana-Champgain, Illinois 
+- **Summer 2023**: Taught COMMM 2850: Communication, Environment, Science, and Health in a three-week summer course
+- **May 2023**: Presented "Environmental issues are global issues - but do environmental communication journals reflect this? A publication review" at the International Communication Association annual meeting in Toronto, Canada 
+- **August 2022**: Awarded a Cornell Fellowship 
