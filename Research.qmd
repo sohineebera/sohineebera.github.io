@@ -9,28 +9,39 @@ But what does it actually mean to listen? My research is concerned with how part
 
 My research has investigating these arrangements across a range of contexts: responsible recreation in national parks, responsible agricultural biotechnology development at research centers, and rural health care delivery in India. Across these projects, I use mixed-methods, from survey research, message design and testing, to ethnographic-based observation, interviews, and textual analysis. 
 
-What connects these projects is a commitment to treating participation as a structural question, not a performative one. It's not enough to include communities in the design of interventions. The deeper work is understanding what it takes to actually hear them. 
-
 ## Projects
 
 ```{=html}
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin-bottom: 3rem;">
 
   <div style="flex: 0 0 38%; max-width: 38%;">
-    <img src="JOTR.jpeg" style="width: 100%; height: auto; border-radius: 6px;">
+    <img src="ASHA.jpeg" style="width: 100%; height: auto; border-radius: 6px;">
     <p style="font-size: 0.85rem; color: #666; text-align: center; margin-top: 0.4rem;">
-      Off-roading at Berdoo Canyon Road, Joshua Tree National Park
+      ASHAs protesting in Janurary 2026 for better pay, worker rights, and recognition
     </p>
   </div>
 
   <div style="flex: 1;">
-    <h3 style="margin-top: 0;">Community-Centered Off-Road Management in Joshua Tree National Park </h3>
+    <h3 style="margin-top: 0;">The Communicative Politics of Community Health Work in Rural India</h3>
     <p>
-      Off-roaders are often framed as a problem in conservation, but that framing misses the fact that these communities have their own deep relationships with land, their own definitions of responsible recreation, and their own sense of what the problems in wilderness areas are. In partnership with Joshua Tree National Park and The Living Desert, we worked to understand off-roaders' perceptions and design conservation messaging that could speak to this community.
+    Community-based health programs have long been championed as a model for meaningful global development and social change. Yet, the communicative arrangements through which those programs operate can reproduce the very logics they claim to disrupt. My dissertation focuses on India's National Health Mission, the world's largest community health program. I examine the data and reporting infrastructures behind the program, which shapes how problems are defined, which outcomes are recorded, and which behaviors are rewarded, to understand health care delivery on the ground. 
+    I draw on three months of ethnographic-based fieldwork with female community healthworkers in rural West Bengal, India, including participant observation, semi-structured interviews, as well as textual analyses of policy documents. This dissertation develops the concept of entangled care, in which geniune benefit and harm go hand in hand, empowerment can come at the cost of marginalization, and coercion is interwinted with care. 
     </p>
     <p style="font-size: 0.85rem; color: #666;">
-      <strong>Grants:</strong> California State Parks Off-Highway Motor Vehicle Recreation Grant / $114,625 (Unfunded) / 2024
+      <strong>Funding:</strong> 
+      Waterhouse Family Institute / $5,600 / 2025
     </p>
+        </p>
+    <p style="font-size: 0.85rem; color: #666;">
+      Cornell's Qualitative and Interpretive Research Institute / $2,000 / 2025
+    </p>
+    </p>
+        </p>
+    <p style="font-size: 0.85rem; color: #666;">
+    Cornell's Department of Communication / $2,000 / 2025
+    </p>
+
+
   </div>
 
 </div>
@@ -67,31 +78,20 @@ What connects these projects is a commitment to treating participation as a stru
 <!-- ── PROJECT 3: Image Left, Text Right ────────────── -->
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin-bottom: 3rem;">
 
-  <div style="flex: 0 0 38%; max-width: 38%;">
-    <img src="ASHA.jpeg" style="width: 100%; height: auto; border-radius: 6px;">
+ <div style="flex: 0 0 38%; max-width: 38%;">
+    <img src="JOTR.jpeg" style="width: 100%; height: auto; border-radius: 6px;">
     <p style="font-size: 0.85rem; color: #666; text-align: center; margin-top: 0.4rem;">
-      ASHAs protesting in Janurary 2026 for better pay, worker rights, and recognition
+      Off-roading at Berdoo Canyon Road, Joshua Tree National Park
     </p>
   </div>
 
   <div style="flex: 1;">
-    <h3 style="margin-top: 0;">The Communicative Politics of Community Health Work in Rural India</h3>
+    <h3 style="margin-top: 0;">Community-Centered Off-Road Management in Joshua Tree National Park </h3>
     <p>
-    Community-based health programs have long been championed as a model for meaningful global development and social change. Yet, the communicative arrangements through which those programs operate can reproduce the very logics they claim to disrupt. My dissertation focuses on India's National Health Mission, the world's largest community health program. I examine the data and reporting infrastructures behind the program, which shapes how problems are defined, which outcomes are recorded, and which behaviors are rewarded, to understand health care delivery on the ground. 
-    I draw on three months of ethnographic-based fieldwork with female community healthworkers in rural West Bengal, India, including participant observation, semi-structured interviews, as well as textual analyses of policy documents. This dissertation develops the concept of entangled care, in which geniune benefit and harm go hand in hand, empowerment can come at the cost of marginalization, and coercion is interwinted with care. 
+      Off-roaders are often framed as a problem in conservation, but that framing misses the fact that these communities have their own deep relationships with land, their own definitions of responsible recreation, and their own sense of what the problems in wilderness areas are. In partnership with Joshua Tree National Park and The Living Desert, we worked to understand off-roaders' perceptions and design conservation messaging that could speak to this community.
     </p>
     <p style="font-size: 0.85rem; color: #666;">
-      <strong>Funding:</strong> 
-      Waterhouse Family Institute / $5,600 / 2025
-    </p>
-        </p>
-    <p style="font-size: 0.85rem; color: #666;">
-      Cornell's Qualitative and Interpretive Research Institute / $2,000 / 2025
-    </p>
-    </p>
-        </p>
-    <p style="font-size: 0.85rem; color: #666;">
-    Cornell's Department of Communication / $2,000 / 2025
+      <strong>Grants:</strong> California State Parks Off-Highway Motor Vehicle Recreation Grant / $114,625 (Unfunded) / 2024
     </p>
   </div>
 
