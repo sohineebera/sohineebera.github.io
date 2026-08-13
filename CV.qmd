@@ -1,5 +1,0 @@
----
-title: "CV"
-format: html
----
-[Download my CV here](Bera-CV-08112026.pdf)
